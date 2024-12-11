@@ -1,1 +1,1 @@
-# packer-ansible-gcp
+# Packer GCP Image with Ansible Scripts
